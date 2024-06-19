@@ -3,4 +3,5 @@
 # Avalonia
 # Emgu.CV
 # Face Recognition
+# MySQL
 # Raspberry Pi GPIO
