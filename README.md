@@ -1,6 +1,6 @@
 # Final Team Project
 # used C#
-# A
+# Avalonia
 # Emgu.CV
 # Face Recognition
 # Raspberry Pi GPIO
